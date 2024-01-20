@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1701754183 source:c:\users\user\desktop\aibatch01\c damo\aibatch\main.c
+	<stdio.h>
+	<stdlib.h>
+	"SUBTRACTION.c"
+	"ADDITION.c"
+
+1701244754 source:c:\users\user\desktop\aibatch01\c damo\aibatch\addition.c
+	<stdio.h>
+
+1701244588 source:c:\users\user\desktop\aibatch01\c damo\aibatch\subtraction.c
+	<stdio.h>
+
+1701244588 c:\users\user\desktop\aibatch01\c damo\aibatch\subtraction.c
+	<stdio.h>
+
+1701244754 c:\users\user\desktop\aibatch01\c damo\aibatch\addition.c
+	<stdio.h>
+
+1701326208 source:c:\users\user\desktop\aibatch01\c damo\aibatch\multiply.c
+	<stdio.h>
+
+1701327518 source:c:\users\user\desktop\aibatch01\c damo\aibatch\divition.c
+	<stdio.h>
+
+1701327099 source:c:\users\user\desktop\aibatch01\c damo\aibatch\while.c
+
+1701327592 source:c:\users\user\desktop\aibatch01\c damo\aibatch\modulus.c
+	<stdio.h>
+
+1701412881 source:c:\users\user\desktop\aibatch01\c damo\aibatch\increment.c
+	<stdio.h>
+
+1701668049 source:c:\users\user\desktop\aibatch01\c damo\aibatch\dicrement.c
+	<stdio.h>
+
+1701668209 source:c:\users\user\desktop\aibatch01\c damo\aibatch\logigal.c
+	<stdio.h>
+

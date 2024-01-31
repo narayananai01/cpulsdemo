@@ -46,8 +46,8 @@ public:
 
      additionprogram();
      myfristclass mfc,fc;
-     cout << "\n given for value  " << mfc.a;
-    cout << "\n given for value " << (mfc.a + 10);
+     cout << "\t\n given for value  " << mfc.a;
+    cout << "\t\n given for value " << (mfc.a + 10);
     mfc.multiplyprogram();
     mfc.subtractionprogram();
     mfc.divisionprogram();

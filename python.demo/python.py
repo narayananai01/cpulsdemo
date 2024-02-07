@@ -22,5 +22,5 @@ print(m)
 #display the data type of x:
 #print(x) 
 '''
-myname=input("enter of value ": ) 
-print("my name is" : naveen )
+#myname=input("enter of value ": ) 
+#print("my name is" : naveen ):
